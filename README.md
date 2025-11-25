@@ -1,6 +1,7 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### Name: Ramitha Chowdary S
+### Register Number: 212224240130
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -33,10 +34,9 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/acf91def-0251-45b8-872f-8769800954d5)
 
-
-### Name:
-### Register Number:
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
