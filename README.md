@@ -1,4 +1,6 @@
-# Ex. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
+
+### DATE: 25/11/2025
 
 ### Name: Ramitha Chowdary S
 ### Register Number: 212224240130
@@ -34,9 +36,8 @@
 ## Input:
 
 ### Output:
-![image](https://github.com/user-attachments/assets/acf91def-0251-45b8-872f-8769800954d5)
+![image](https://github.com/user-attachments/assets/91095ffe-06fb-4cdd-9570-f49b2f914130)
 
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
-
